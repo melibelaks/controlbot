@@ -1,2 +1,0 @@
-# controlbot
-unidad de control
